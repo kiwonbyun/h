@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image MD Direct Translate"
+  short_description: "이미지 원문 Markdown과 한국어 직역본 생성"
+  default_prompt: "Use $image-md-direct-translate to transcribe this product image into Markdown and create a Korean literal-translation Markdown copy."
